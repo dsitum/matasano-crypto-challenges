@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1382135888 source:c:\users\domagoj\desktop\1.07\1.7\main.cpp
+	<iostream>
+	<iomanip>
+	<openssl/aes.h>
+	<fstream>
+	<cstring>
+
+1360577328 c:\openssl-win32\include\openssl\aes.h
+	<openssl/opensslconf.h>
+	<stddef.h>
+
+1360577328 c:\openssl-win32\include\openssl\opensslconf.h
+
+1382268184 source:c:\users\domagoj\skydrive\moje\faks\sis\projekt\grupa 1\1.07\main.cpp
+	<iostream>
+	<iomanip>
+	<openssl/aes.h>
+	<fstream>
+	<cstring>
+
+1382329084 source:c:\users\domagoj\skydrive\moje\faks\sis\projekt\grupa 1\1.7\main.cpp
+	<iostream>
+	<iomanip>
+	<openssl/aes.h>
+	<fstream>
+	<cstring>
+	"..\Message.h"
+
+1382323910 source:c:\users\lord-sarmadron3\desktop\sis projekt\grupa 1\1.7\main.cpp
+	<iostream>
+	<iomanip>
+	<openssl/aes.h>
+	<fstream>
+	<cstring>
+	"..\Message.h"
+
+1382313208 c:\users\lord-sarmadron3\desktop\sis projekt\grupa 1\message.h
+	<cstring>
+	<iostream>
+
+1382323910 source:c:\users\lord-sarmadron3\desktop\sis projekt\set01\1.7\main.cpp
+	<iostream>
+	<iomanip>
+	<openssl/aes.h>
+	<fstream>
+	<cstring>
+	"..\Message.h"
+
+1382313208 c:\users\lord-sarmadron3\desktop\sis projekt\set01\message.h
+	<cstring>
+	<iostream>
+
+1382313208 c:\users\domagoj\skydrive\moje\faks\sis\projekt\grupa 1\message.h
+	<cstring>
+	<iostream>
+
